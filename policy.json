@@ -1,0 +1,4234 @@
+{
+  "ActivePolicy": {
+    "Policy": {
+      "BoundRenewal": false,
+      "Documents": {
+        "currentTermDocuments": [
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Welcome Letter",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_WelcomeLtr_0920",
+            "SessionID": "2aedb537-24b8-4882-9f80-ff942cdc6aab",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44256"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "a702f192-ae89-4499-9349-84b1f254a91f",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44257"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "93a012aa-9d9d-45fe-a015-3bc3e7d17e15",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44258"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "b00f90b8-58b3-44a9-b4b1-69a833436d61",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44259"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "f94f5505-ea0c-473c-8dfe-67df60d925bb",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44260"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TX Policy Declarations Page",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "13313_TCM_EIC_TX_DecPage_1120",
+            "SessionID": "ef586329-8d87-457a-96c9-2b657429934d",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44263"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Payment FAQ",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_PymntFAQ6_0120",
+            "SessionID": "7cdc359e-f6a2-457c-bb85-a36b22570ab4",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44269"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:28Z",
+            "DisplayName": "Policy Documents",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "Policy Documents",
+            "SessionID": "e538143d-5178-4fe4-b99d-565d7a994e6c",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44277"
+          }
+        ]
+      },
+      "Effective": "2021-05-07T04:01:00Z",
+      "Expiration": "2021-11-07T04:01:00Z",
+      "IsDownPaymentRequired": false,
+      "Lobs": {
+        "CurrentCarrier": "",
+        "Home": false,
+        "Life": false,
+        "Motorcycle": false,
+        "PersonalAuto": {
+          "AccidentForgivenessFlag": false,
+          "AllowTextMessage": false,
+          "CellPhoneProvider": "",
+          "Coverages": [
+            {
+              "Desc": "Bodily Injury Liability",
+              "Items": [
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 0,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 1,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 2,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 3,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 4,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 5,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "EISPABodilyInjuryCov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "907",
+              "SelectedValue": "30/60",
+              "SortOrder": 0,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Property Damage Liability",
+              "Items": [
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 0,
+                  "Value": "25"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 1,
+                  "Value": "40"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250"
+                }
+              ],
+              "Name": "EISPAPropertyDamageCov",
+              "OrigVal": "25",
+              "OriginalVal": "25",
+              "Premium": "704",
+              "SelectedValue": "25",
+              "SortOrder": 10,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Bodily Injury",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 1,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 5,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 6,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "PAUMBICov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "81",
+              "SelectedValue": "30/60",
+              "SortOrder": 20,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Property Damage",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 1,
+                  "Value": "25000"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 2,
+                  "Value": "40000"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 3,
+                  "Value": "50000"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 4,
+                  "Value": "100000"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 5,
+                  "Value": "250000"
+                }
+              ],
+              "Name": "PAUMPDCov",
+              "OrigVal": "25000",
+              "OriginalVal": "25000",
+              "Premium": "107",
+              "SelectedValue": "25000",
+              "SortOrder": 30,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "PIP - Texas",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$2,500",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_2500"
+                  },
+                  "SortOrder": 1,
+                  "Value": "TXPIP_2500"
+                },
+                {
+                  "Desc": "$5,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_5000"
+                  },
+                  "SortOrder": 2,
+                  "Value": "TXPIP_5000"
+                },
+                {
+                  "Desc": "$10,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_10000"
+                  },
+                  "SortOrder": 3,
+                  "Value": "TXPIP_10000"
+                }
+              ],
+              "Name": "PAPIP_TX",
+              "OrigVal": "none",
+              "OriginalVal": "none",
+              "Premium": null,
+              "SelectedValue": "none",
+              "SortOrder": 40,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Legal Plan",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "LPNone"
+                },
+                {
+                  "Desc": "Full Legal Plan",
+                  "SortOrder": 1,
+                  "Value": "LPFull"
+                }
+              ],
+              "Name": "EISPALegalPlanCov",
+              "OrigVal": "LPNone",
+              "OriginalVal": "LPNone",
+              "Premium": null,
+              "SelectedValue": "LPNone",
+              "SortOrder": 50,
+              "StateProv": "tx"
+            }
+          ],
+          "Drivers": [
+            {
+              "AgeFirstLicensed": 16,
+              "ClueOrderDate": "2021-05-06T20:39:20Z",
+              "ClueOrderStatus": "R",
+              "CurrentStudentEnrollment": "Architect",
+              "DateOfBirth": "2000-01-01T05:00:00Z",
+              "DisplayName": "Seraphin Shinyu",
+              "DriveAnyVehiclesExt": false,
+              "EmploymentStatus": "EmployedPrivately",
+              "ExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "FullTimeStudentExt": false,
+              "Gender": "M",
+              "HasGoodStudentDiscount": false,
+              "HighestEducationLevel": "bachelors",
+              "LicenseNumber": "XXXX2314",
+              "LicenseState": "TX",
+              "LicenseStatus": "valid",
+              "LivesInHousehold": true,
+              "MaritalStatus": "P",
+              "MvrOrderDate": "2021-05-06T20:39:19Z",
+              "MvrOrderStatus": "N",
+              "Occupation": "38",
+              "OwnsOwnVehicleAndInsurance": false,
+              "Person": {
+                "FirstName": "Seraphin",
+                "LastName": "Shinyu"
+              },
+              "PrimaryVehicleExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "RatingStatus": "rated",
+              "RelationshipToInsured": "applicant",
+              "StudentAway": false
+            }
+          ],
+          "EffectiveDate": "2021-05-07T04:01:00Z",
+          "Email": "iain@elephant.com",
+          "EnhancedUMCoverage": null,
+          "ExpirationDate": "2021-11-07T04:01:00Z",
+          "GarageAddress": null,
+          "IsPIPNoCoverage": null,
+          "IsUMBINoCoverage": null,
+          "IsUMPDNoCoverage": null,
+          "LastUpdateTime": "",
+          "LineOfBusiness": "Personal Auto Line",
+          "MailingAddress": {
+            "AddressLine1": "1195 E Adoue St",
+            "AddressLine2": "",
+            "AddressType": "",
+            "City": "Alvin",
+            "Country": "US",
+            "County": "Galveston",
+            "DisplayName": "",
+            "ExternalID": "13413",
+            "PostalCode": "77511",
+            "PublicID": "",
+            "State": "TX"
+          },
+          "OrigAccidentForgivenessFlag": null,
+          "PhoneNumber": "",
+          "PhoneNumbers": [
+            {
+              "PhoneNumber": "8045652342",
+              "PhoneType": "home",
+              "Primary": true
+            }
+          ],
+          "PolicyNumber": "244-000-010-35",
+          "PrimaryPhone": "8045652342",
+          "PublicId": "pc:40311",
+          "ResidencyStatus": "home",
+          "ResidentMonth": 1,
+          "ResidentYear": 2011,
+          "Status": "In Force",
+          "TotalPremium": "2321",
+          "Vehicles": [
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "165",
+                  "SelectedValue": "500",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "357",
+                  "SelectedValue": "500",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "It go bada boom",
+              "DamageOnVehicle": true,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2011 KIA SORENTO BASE in Texas",
+              "DonotKnowLienHolder": true,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": true,
+              "LicenseState": "VA",
+              "Make": "KIA",
+              "MakeID": 1011,
+              "Model": "SORENTO BASE",
+              "ModelID": 14220,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "4 CYL SPORT UTILITY VEHICLE",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "5XYKT3A17BG157871",
+              "Year": 2011,
+              "YearStyleID": 25542
+            },
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "",
+              "DamageOnVehicle": false,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2012 ACURA MDX in Texas",
+              "DonotKnowLienHolder": false,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": false,
+              "LicenseState": "TX",
+              "Make": "ACURA",
+              "MakeID": 1154,
+              "Model": "MDX",
+              "ModelID": 22338,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "6 CYL SPORT UTILITY VEHICLE AWD",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "2HNYD2H25CH505177",
+              "Year": 2012,
+              "YearStyleID": 32794
+            }
+          ],
+          "WrittenDate": "2021-05-06T04:00:00Z"
+        }
+      },
+      "SymbolsDate": "2021-05-06T04:00:00Z",
+      "TermType": "HalfYear",
+      "WrittenDate": "2021-05-06T04:00:00Z"
+    }
+  },
+  "BillingDetail": {
+    "AutoPay": true,
+    "Charges": [
+      {
+        "ChargeAmount": "4",
+        "ChargeCategory": "TX Theft Prevention Assessment",
+        "ChargeGenerationDate": "2021-05-06T20:40:12Z",
+        "Job": "Submission",
+        "JobNumber": "0007455076",
+        "PaidAmount": "4"
+      },
+      {
+        "ChargeAmount": "2321",
+        "ChargeCategory": "Premium",
+        "ChargeGenerationDate": "2021-05-06T20:40:12Z",
+        "Job": "Submission",
+        "JobNumber": "0007455076",
+        "PaidAmount": "1161.67"
+      },
+      {
+        "ChargeAmount": "4",
+        "ChargeCategory": "TX Theft Prevention Assessment",
+        "ChargeGenerationDate": "2021-05-06T20:40:12Z",
+        "Job": "Submission",
+        "JobNumber": "0007455076",
+        "PaidAmount": "4"
+      }
+    ],
+    "CurrentBilledInvoice": null,
+    "CurrentBillingStatus": {
+      "AmountDue": "0",
+      "BadDebtAmount": "0",
+      "IsDueToday": false,
+      "PaidInFullAmount": "1159.33",
+      "PastDue": "0",
+      "PlannedInstallmentFee": "7",
+      "WriteOffAmount": "0"
+    },
+    "DefaultBillingAddress": {
+      "AddressLine1": "1195 E Adoue St",
+      "AddressLine2": "",
+      "AddressType": "",
+      "City": "Alvin",
+      "Country": "US",
+      "County": "",
+      "DisplayName": "",
+      "ExternalID": "",
+      "PostalCode": "77511",
+      "PublicID": "",
+      "State": "TX"
+    },
+    "Documents": [
+      {
+        "Author": "Elephant BillingCenter",
+        "DateModified": "2021-05-06T20:40:14Z",
+        "DisplayName": "Payment Schedule",
+        "IsEnglishDoc": true,
+        "IsSpanishDoc": false,
+        "JobEffectiveDate": "",
+        "JobExpirationDate": "",
+        "JobNumber": "",
+        "JobType": "",
+        "MimeType": "application/pdf",
+        "Name": "Payment Schedule",
+        "SessionID": "2ced63a5-e786-4aa7-8ff8-3fc59f118ede",
+        "Status": "approved",
+        "VehicleId": "",
+        "WorkingPublicID": "bc9:11012"
+      }
+    ],
+    "Invoices": [
+      {
+        "AmountDue": "393.45",
+        "AmountPaid": "0",
+        "BilledDate": "2021-07-28T04:00:00Z",
+        "DueDate": "2021-08-07T04:00:00Z",
+        "InvoiceAmount": "386.45",
+        "InvoiceItems": [
+          {
+            "ChargeAmount": "386.45",
+            "ChargeCategory": "Premium",
+            "ChargeType": "installment",
+            "PaidAmount": "0"
+          },
+          {
+            "ChargeAmount": "7",
+            "ChargeCategory": "Installment fee",
+            "ChargeType": "onetime"
+          }
+        ],
+        "InvoiceNumber": "1000012137",
+        "IsDueToday": false,
+        "Status": "Planned"
+      }
+    ],
+    "LastDueInvoice": null,
+    "NextPlannedInvoice": {
+      "AmountDue": "393.45",
+      "AmountPaid": "0",
+      "BilledDate": "2021-07-28T04:00:00Z",
+      "DueDate": "2021-08-07T04:00:00Z",
+      "InvoiceAmount": "386.45",
+      "InvoiceItems": [
+        {
+          "ChargeAmount": "386.45",
+          "ChargeCategory": "Premium",
+          "ChargeType": "installment",
+          "PaidAmount": "0"
+        },
+        {
+          "ChargeAmount": "7",
+          "ChargeCategory": "Installment fee",
+          "ChargeType": "onetime"
+        }
+      ],
+      "InvoiceNumber": "1000012137",
+      "IsDueToday": false,
+      "Status": "Planned"
+    },
+    "NextScheduledPayment": null,
+    "PaymentInstruments": [
+      {
+        "CreditCardData": {
+          "CreditCardAddress": {
+            "addressLine1": "1195 E Adoue St",
+            "city": "Alvin",
+            "country": "US",
+            "postalCode": "77511",
+            "state": "TX"
+          },
+          "CreditCardExpDate": "2026-01-31T05:00:00Z",
+          "CreditCardIssuer": "visa",
+          "CreditCardName": "",
+          "CreditCardNumber": "************4242",
+          "FirstName": "Jesi",
+          "Last4Ext": "4242",
+          "LastFourOfPaymentMethod": "",
+          "LastName": "Monroe",
+          "NickName": ""
+        },
+        "DefaultInstrument": true,
+        "PaymentMethod": "creditcard",
+        "id": "11012"
+      }
+    ],
+    "PaymentPlan": "Monthly",
+    "PaymentRequests": [],
+    "Transactions": [
+      {
+        "Amount": "386.45",
+        "Date": "2021-08-07T04:00:00Z",
+        "InvoiceDetail": {
+          "AmountDue": "393.45",
+          "AmountPaid": "0",
+          "BilledDate": "2021-07-28T04:00:00Z",
+          "DueDate": "2021-08-07T04:00:00Z",
+          "InvoiceAmount": "386.45",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.45",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "0"
+            },
+            {
+              "ChargeAmount": "7",
+              "ChargeCategory": "Installment fee",
+              "ChargeType": "onetime"
+            }
+          ],
+          "InvoiceNumber": "1000012137",
+          "IsDueToday": false,
+          "Status": "Planned"
+        },
+        "Status": "Planned",
+        "Type": "Invoice"
+      },
+      {
+        "Date": "2021-05-06T20:40:07Z",
+        "PaymentDetail": {
+          "AmountPaid": "403.77",
+          "AppliedDate": "2021-05-06T20:40:07Z",
+          "ID": "bc9:44137",
+          "PaymentInstrument": {
+            "CreditCardData": {
+              "CreditCardAddress": null,
+              "CreditCardExpDate": "2026-01-31T05:00:00Z",
+              "CreditCardIssuer": "visa",
+              "CreditCardName": "",
+              "CreditCardNumber": "************4242",
+              "FirstName": "Jesi",
+              "Last4Ext": "4242",
+              "LastFourOfPaymentMethod": "",
+              "LastName": "Monroe",
+              "NickName": ""
+            },
+            "PaymentMethod": "creditcard"
+          },
+          "ReferenceNumber": "6203336066256644404012",
+          "Reversed": false,
+          "TransactionDate": "2021-05-06T20:40:07Z",
+          "TransactionNumber": "1000000023-0496",
+          "TransactionStatus": "Paid",
+          "TransactionType": "Payment"
+        },
+        "Status": "Paid",
+        "Type": "Payment"
+      },
+      {
+        "Date": "2021-06-07T07:55:23Z",
+        "PaymentDetail": {
+          "AmountPaid": "393.45",
+          "AppliedDate": "2021-06-07T07:55:24Z",
+          "ID": "bc9:142086",
+          "PaymentInstrument": {
+            "CreditCardData": {
+              "CreditCardAddress": null,
+              "CreditCardExpDate": "2026-01-31T05:00:00Z",
+              "CreditCardIssuer": "visa",
+              "CreditCardName": "",
+              "CreditCardNumber": "************4242",
+              "FirstName": "Jesi",
+              "Last4Ext": "4242",
+              "LastFourOfPaymentMethod": "",
+              "LastName": "Monroe",
+              "NickName": ""
+            },
+            "PaymentMethod": "creditcard"
+          },
+          "ReferenceNumber": "6230525235736149804008",
+          "Reversed": false,
+          "TransactionDate": "2021-06-07T07:55:23Z",
+          "TransactionNumber": "1000000061-6181",
+          "TransactionStatus": "Paid",
+          "TransactionType": "Payment"
+        },
+        "Status": "Paid",
+        "Type": "Payment"
+      },
+      {
+        "Date": "2021-07-07T07:55:31Z",
+        "PaymentDetail": {
+          "AmountPaid": "393.45",
+          "AppliedDate": "2021-07-07T07:55:31Z",
+          "ID": "bc9:280235",
+          "PaymentInstrument": {
+            "CreditCardData": {
+              "CreditCardAddress": null,
+              "CreditCardExpDate": "2026-01-31T05:00:00Z",
+              "CreditCardIssuer": "visa",
+              "CreditCardName": "",
+              "CreditCardNumber": "************4242",
+              "FirstName": "Jesi",
+              "Last4Ext": "4242",
+              "LastFourOfPaymentMethod": "",
+              "LastName": "Monroe",
+              "NickName": ""
+            },
+            "PaymentMethod": "creditcard"
+          },
+          "ReferenceNumber": "6256445312516664704007",
+          "Reversed": false,
+          "TransactionDate": "2021-07-07T07:55:31Z",
+          "TransactionNumber": "1000000112-9114",
+          "TransactionStatus": "Paid",
+          "TransactionType": "Payment"
+        },
+        "Status": "Paid",
+        "Type": "Payment"
+      }
+    ]
+  },
+  "BusinessRules": {
+    "ACHReversalPastYear": false,
+    "CanUseACH": true,
+    "HasFR44": false,
+    "MaxPaymentAmount": null,
+    "NextPaymentAmount": "393.45",
+    "NextPaymentDate": "2021-08-07T04:00:00Z",
+    "PaidInFull": false,
+    "PaymentBlocked": false,
+    "PaymentCalendar": null,
+    "RescheduleCalendar": {},
+    "WriteOff": false
+  },
+  "Policy": {
+    "Account": {
+      "AccountAddress": {
+        "AddressLine1": "1195 E Adoue St",
+        "AddressLine2": "",
+        "AddressType": "",
+        "City": "Alvin",
+        "Country": "US",
+        "County": "Galveston",
+        "DisplayName": "",
+        "ExternalID": "",
+        "PostalCode": "77511",
+        "PublicID": "",
+        "State": "TX"
+      },
+      "AccountNumber": "10002811",
+      "AmendmentRestrictions": {
+        "RestrictionReasonCodes": [],
+        "Restrictions": false
+      },
+      "BillingCenterAccountNumber": "10002811",
+      "ServiceTier": "platinum"
+    },
+    "AvailableCoverages": null,
+    "Details": null,
+    "ErrorList": null,
+    "ErrorMessage": "",
+    "Policy": {
+      "BoundRenewal": false,
+      "Documents": {
+        "currentTermDocuments": [
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Welcome Letter",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_WelcomeLtr_0920",
+            "SessionID": "2aedb537-24b8-4882-9f80-ff942cdc6aab",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44256"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "a702f192-ae89-4499-9349-84b1f254a91f",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44257"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "93a012aa-9d9d-45fe-a015-3bc3e7d17e15",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44258"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "b00f90b8-58b3-44a9-b4b1-69a833436d61",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44259"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "f94f5505-ea0c-473c-8dfe-67df60d925bb",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44260"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TX Policy Declarations Page",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "13313_TCM_EIC_TX_DecPage_1120",
+            "SessionID": "ef586329-8d87-457a-96c9-2b657429934d",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44263"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Payment FAQ",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_PymntFAQ6_0120",
+            "SessionID": "7cdc359e-f6a2-457c-bb85-a36b22570ab4",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44269"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:28Z",
+            "DisplayName": "Policy Documents",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "Policy Documents",
+            "SessionID": "e538143d-5178-4fe4-b99d-565d7a994e6c",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44277"
+          }
+        ]
+      },
+      "Effective": "2021-05-07T04:01:00Z",
+      "Expiration": "2021-11-07T04:01:00Z",
+      "IsDownPaymentRequired": false,
+      "Lobs": {
+        "CurrentCarrier": "",
+        "Home": false,
+        "Life": false,
+        "Motorcycle": false,
+        "PersonalAuto": {
+          "AccidentForgivenessFlag": false,
+          "AllowTextMessage": false,
+          "CellPhoneProvider": "",
+          "Coverages": [
+            {
+              "Desc": "Bodily Injury Liability",
+              "Items": [
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 0,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 1,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 2,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 3,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 4,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 5,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "EISPABodilyInjuryCov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "907",
+              "SelectedValue": "30/60",
+              "SortOrder": 0,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Property Damage Liability",
+              "Items": [
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 0,
+                  "Value": "25"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 1,
+                  "Value": "40"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250"
+                }
+              ],
+              "Name": "EISPAPropertyDamageCov",
+              "OrigVal": "25",
+              "OriginalVal": "25",
+              "Premium": "704",
+              "SelectedValue": "25",
+              "SortOrder": 10,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Bodily Injury",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 1,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 5,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 6,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "PAUMBICov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "81",
+              "SelectedValue": "30/60",
+              "SortOrder": 20,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Property Damage",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 1,
+                  "Value": "25000"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 2,
+                  "Value": "40000"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 3,
+                  "Value": "50000"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 4,
+                  "Value": "100000"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 5,
+                  "Value": "250000"
+                }
+              ],
+              "Name": "PAUMPDCov",
+              "OrigVal": "25000",
+              "OriginalVal": "25000",
+              "Premium": "107",
+              "SelectedValue": "25000",
+              "SortOrder": 30,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "PIP - Texas",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$2,500",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_2500"
+                  },
+                  "SortOrder": 1,
+                  "Value": "TXPIP_2500"
+                },
+                {
+                  "Desc": "$5,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_5000"
+                  },
+                  "SortOrder": 2,
+                  "Value": "TXPIP_5000"
+                },
+                {
+                  "Desc": "$10,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_10000"
+                  },
+                  "SortOrder": 3,
+                  "Value": "TXPIP_10000"
+                }
+              ],
+              "Name": "PAPIP_TX",
+              "OrigVal": "none",
+              "OriginalVal": "none",
+              "Premium": null,
+              "SelectedValue": "none",
+              "SortOrder": 40,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Legal Plan",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "LPNone"
+                },
+                {
+                  "Desc": "Full Legal Plan",
+                  "SortOrder": 1,
+                  "Value": "LPFull"
+                }
+              ],
+              "Name": "EISPALegalPlanCov",
+              "OrigVal": "LPNone",
+              "OriginalVal": "LPNone",
+              "Premium": null,
+              "SelectedValue": "LPNone",
+              "SortOrder": 50,
+              "StateProv": "tx"
+            }
+          ],
+          "Drivers": [
+            {
+              "AgeFirstLicensed": 16,
+              "ClueOrderDate": "2021-05-06T20:39:20Z",
+              "ClueOrderStatus": "R",
+              "CurrentStudentEnrollment": "Architect",
+              "DateOfBirth": "2000-01-01T05:00:00Z",
+              "DisplayName": "Seraphin Shinyu",
+              "DriveAnyVehiclesExt": false,
+              "EmploymentStatus": "EmployedPrivately",
+              "ExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "FullTimeStudentExt": false,
+              "Gender": "M",
+              "HasGoodStudentDiscount": false,
+              "HighestEducationLevel": "bachelors",
+              "LicenseNumber": "XXXX2314",
+              "LicenseState": "TX",
+              "LicenseStatus": "valid",
+              "LivesInHousehold": true,
+              "MaritalStatus": "P",
+              "MvrOrderDate": "2021-05-06T20:39:19Z",
+              "MvrOrderStatus": "N",
+              "Occupation": "38",
+              "OwnsOwnVehicleAndInsurance": false,
+              "Person": {
+                "FirstName": "Seraphin",
+                "LastName": "Shinyu"
+              },
+              "PrimaryVehicleExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "RatingStatus": "rated",
+              "RelationshipToInsured": "applicant",
+              "StudentAway": false
+            }
+          ],
+          "EffectiveDate": "2021-05-07T04:01:00Z",
+          "Email": "iain@elephant.com",
+          "EnhancedUMCoverage": null,
+          "ExpirationDate": "2021-11-07T04:01:00Z",
+          "GarageAddress": null,
+          "IsPIPNoCoverage": null,
+          "IsUMBINoCoverage": null,
+          "IsUMPDNoCoverage": null,
+          "LastUpdateTime": "",
+          "LineOfBusiness": "Personal Auto Line",
+          "MailingAddress": {
+            "AddressLine1": "1195 E Adoue St",
+            "AddressLine2": "",
+            "AddressType": "",
+            "City": "Alvin",
+            "Country": "US",
+            "County": "Galveston",
+            "DisplayName": "",
+            "ExternalID": "13413",
+            "PostalCode": "77511",
+            "PublicID": "",
+            "State": "TX"
+          },
+          "OrigAccidentForgivenessFlag": null,
+          "PhoneNumber": "",
+          "PhoneNumbers": [
+            {
+              "PhoneNumber": "8045652342",
+              "PhoneType": "home",
+              "Primary": true
+            }
+          ],
+          "PolicyNumber": "244-000-010-35",
+          "PrimaryPhone": "8045652342",
+          "PublicId": "pc:40311",
+          "ResidencyStatus": "home",
+          "ResidentMonth": 1,
+          "ResidentYear": 2011,
+          "Status": "In Force",
+          "TotalPremium": "2321",
+          "Vehicles": [
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "165",
+                  "SelectedValue": "500",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "357",
+                  "SelectedValue": "500",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "It go bada boom",
+              "DamageOnVehicle": true,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2011 KIA SORENTO BASE in Texas",
+              "DonotKnowLienHolder": true,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": true,
+              "LicenseState": "VA",
+              "Make": "KIA",
+              "MakeID": 1011,
+              "Model": "SORENTO BASE",
+              "ModelID": 14220,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "4 CYL SPORT UTILITY VEHICLE",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "5XYKT3A17BG157871",
+              "Year": 2011,
+              "YearStyleID": 25542
+            },
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "",
+              "DamageOnVehicle": false,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2012 ACURA MDX in Texas",
+              "DonotKnowLienHolder": false,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": false,
+              "LicenseState": "TX",
+              "Make": "ACURA",
+              "MakeID": 1154,
+              "Model": "MDX",
+              "ModelID": 22338,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "6 CYL SPORT UTILITY VEHICLE AWD",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "2HNYD2H25CH505177",
+              "Year": 2012,
+              "YearStyleID": 32794
+            }
+          ],
+          "WrittenDate": "2021-05-06T04:00:00Z"
+        }
+      },
+      "SymbolsDate": "2021-05-06T04:00:00Z",
+      "TermType": "HalfYear",
+      "WrittenDate": "2021-05-06T04:00:00Z"
+    },
+    "PolicyChange": {
+      "ScheduledAmendments": null
+    },
+    "PolicyPeriod": {
+      "BoundRenewal": false,
+      "Documents": {
+        "currentTermDocuments": [
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Welcome Letter",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_WelcomeLtr_0920",
+            "SessionID": "2aedb537-24b8-4882-9f80-ff942cdc6aab",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44256"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "a702f192-ae89-4499-9349-84b1f254a91f",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44257"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": true,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCardsp_0620",
+            "SessionID": "93a012aa-9d9d-45fe-a015-3bc3e7d17e15",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44258"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2011 KIA SORENTO BASE ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45909_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "b00f90b8-58b3-44a9-b4b1-69a833436d61",
+            "Status": "In Force",
+            "VehicleId": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+            "WorkingPublicID": "pc:44259"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "2012 ACURA MDX ID Card",
+            "IsEnglishDoc": true,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "45908_EIC_TCM_TX_IDCard_0620",
+            "SessionID": "f94f5505-ea0c-473c-8dfe-67df60d925bb",
+            "Status": "In Force",
+            "VehicleId": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+            "WorkingPublicID": "pc:44260"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TX Policy Declarations Page",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "13313_TCM_EIC_TX_DecPage_1120",
+            "SessionID": "ef586329-8d87-457a-96c9-2b657429934d",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44263"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:25Z",
+            "DisplayName": "TCM TX Payment FAQ",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "EIC_TCM_TX_PymntFAQ6_0120",
+            "SessionID": "7cdc359e-f6a2-457c-bb85-a36b22570ab4",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44269"
+          },
+          {
+            "Author": "Policy Center",
+            "DateModified": "2021-05-06T20:40:28Z",
+            "DisplayName": "Policy Documents",
+            "IsEnglishDoc": false,
+            "IsSpanishDoc": false,
+            "JobEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobExpirationDate": "2021-11-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobType": "Submission",
+            "MimeType": "application/pdf",
+            "Name": "Policy Documents",
+            "SessionID": "e538143d-5178-4fe4-b99d-565d7a994e6c",
+            "Status": "In Force",
+            "VehicleId": "",
+            "WorkingPublicID": "pc:44277"
+          }
+        ]
+      },
+      "Effective": "2021-05-07T04:01:00Z",
+      "Expiration": "2021-11-07T04:01:00Z",
+      "IsDownPaymentRequired": false,
+      "Lobs": {
+        "CurrentCarrier": "",
+        "Home": false,
+        "Life": false,
+        "Motorcycle": false,
+        "PersonalAuto": {
+          "AccidentForgivenessFlag": false,
+          "AllowTextMessage": false,
+          "CellPhoneProvider": "",
+          "Coverages": [
+            {
+              "Desc": "Bodily Injury Liability",
+              "Items": [
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 0,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 1,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 2,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 3,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 4,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 5,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "EISPABodilyInjuryCov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "907",
+              "SelectedValue": "30/60",
+              "SortOrder": 0,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Property Damage Liability",
+              "Items": [
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 0,
+                  "Value": "25"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 1,
+                  "Value": "40"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250"
+                }
+              ],
+              "Name": "EISPAPropertyDamageCov",
+              "OrigVal": "25",
+              "OriginalVal": "25",
+              "Premium": "704",
+              "SelectedValue": "25",
+              "SortOrder": 10,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Bodily Injury",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$30,000/$60,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_30_60",
+                    "RuleLimit": "30"
+                  },
+                  "SortOrder": 1,
+                  "Value": "30/60"
+                },
+                {
+                  "Desc": "$50,000/$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_50_100",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 2,
+                  "Value": "50/100"
+                },
+                {
+                  "Desc": "$100,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_100_300",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 3,
+                  "Value": "100/300"
+                },
+                {
+                  "Desc": "$250,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Split_250_500",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 4,
+                  "Value": "250/500"
+                },
+                {
+                  "Desc": "$300,000/$300,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_300_300",
+                    "RuleLimit": "300"
+                  },
+                  "SortOrder": 5,
+                  "Value": "300/300"
+                },
+                {
+                  "Desc": "$500,000/$500,000",
+                  "Meta": {
+                    "CoverageLimitKey": "CombinedSingle_500_500",
+                    "RuleLimit": "500"
+                  },
+                  "SortOrder": 6,
+                  "Value": "500/500"
+                }
+              ],
+              "Name": "PAUMBICov",
+              "OrigVal": "30/60",
+              "OriginalVal": "30/60",
+              "Premium": "81",
+              "SelectedValue": "30/60",
+              "SortOrder": 20,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Uninsured/Underinsured Motorist - Property Damage",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "Meta": {
+                    "RuleLimit": "0"
+                  },
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$25,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_25000",
+                    "RuleLimit": "25"
+                  },
+                  "SortOrder": 1,
+                  "Value": "25000"
+                },
+                {
+                  "Desc": "$40,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_40000",
+                    "RuleLimit": "40"
+                  },
+                  "SortOrder": 2,
+                  "Value": "40000"
+                },
+                {
+                  "Desc": "$50,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_50000",
+                    "RuleLimit": "50"
+                  },
+                  "SortOrder": 3,
+                  "Value": "50000"
+                },
+                {
+                  "Desc": "$100,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_100000",
+                    "RuleLimit": "100"
+                  },
+                  "SortOrder": 4,
+                  "Value": "100000"
+                },
+                {
+                  "Desc": "$250,000",
+                  "Meta": {
+                    "CoverageLimitKey": "Max_250000",
+                    "RuleLimit": "250"
+                  },
+                  "SortOrder": 5,
+                  "Value": "250000"
+                }
+              ],
+              "Name": "PAUMPDCov",
+              "OrigVal": "25000",
+              "OriginalVal": "25000",
+              "Premium": "107",
+              "SelectedValue": "25000",
+              "SortOrder": 30,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "PIP - Texas",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "none"
+                },
+                {
+                  "Desc": "$2,500",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_2500"
+                  },
+                  "SortOrder": 1,
+                  "Value": "TXPIP_2500"
+                },
+                {
+                  "Desc": "$5,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_5000"
+                  },
+                  "SortOrder": 2,
+                  "Value": "TXPIP_5000"
+                },
+                {
+                  "Desc": "$10,000",
+                  "Meta": {
+                    "CoverageLimitKey": "PIP_10000"
+                  },
+                  "SortOrder": 3,
+                  "Value": "TXPIP_10000"
+                }
+              ],
+              "Name": "PAPIP_TX",
+              "OrigVal": "none",
+              "OriginalVal": "none",
+              "Premium": null,
+              "SelectedValue": "none",
+              "SortOrder": 40,
+              "StateProv": "tx"
+            },
+            {
+              "Desc": "Legal Plan",
+              "Items": [
+                {
+                  "Desc": "No Coverage",
+                  "SortOrder": 0,
+                  "Value": "LPNone"
+                },
+                {
+                  "Desc": "Full Legal Plan",
+                  "SortOrder": 1,
+                  "Value": "LPFull"
+                }
+              ],
+              "Name": "EISPALegalPlanCov",
+              "OrigVal": "LPNone",
+              "OriginalVal": "LPNone",
+              "Premium": null,
+              "SelectedValue": "LPNone",
+              "SortOrder": 50,
+              "StateProv": "tx"
+            }
+          ],
+          "Drivers": [
+            {
+              "AgeFirstLicensed": 16,
+              "ClueOrderDate": "2021-05-06T20:39:20Z",
+              "ClueOrderStatus": "R",
+              "CurrentStudentEnrollment": "Architect",
+              "DateOfBirth": "2000-01-01T05:00:00Z",
+              "DisplayName": "Seraphin Shinyu",
+              "DriveAnyVehiclesExt": false,
+              "EmploymentStatus": "EmployedPrivately",
+              "ExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "FullTimeStudentExt": false,
+              "Gender": "M",
+              "HasGoodStudentDiscount": false,
+              "HighestEducationLevel": "bachelors",
+              "LicenseNumber": "XXXX2314",
+              "LicenseState": "TX",
+              "LicenseStatus": "valid",
+              "LivesInHousehold": true,
+              "MaritalStatus": "P",
+              "MvrOrderDate": "2021-05-06T20:39:19Z",
+              "MvrOrderStatus": "N",
+              "Occupation": "38",
+              "OwnsOwnVehicleAndInsurance": false,
+              "Person": {
+                "FirstName": "Seraphin",
+                "LastName": "Shinyu"
+              },
+              "PrimaryVehicleExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "RatingStatus": "rated",
+              "RelationshipToInsured": "applicant",
+              "StudentAway": false
+            }
+          ],
+          "EffectiveDate": "2021-05-07T04:01:00Z",
+          "Email": "iain@elephant.com",
+          "EnhancedUMCoverage": null,
+          "ExpirationDate": "2021-11-07T04:01:00Z",
+          "GarageAddress": null,
+          "IsPIPNoCoverage": null,
+          "IsUMBINoCoverage": null,
+          "IsUMPDNoCoverage": null,
+          "LastUpdateTime": "",
+          "LineOfBusiness": "Personal Auto Line",
+          "MailingAddress": {
+            "AddressLine1": "1195 E Adoue St",
+            "AddressLine2": "",
+            "AddressType": "",
+            "City": "Alvin",
+            "Country": "US",
+            "County": "Galveston",
+            "DisplayName": "",
+            "ExternalID": "13413",
+            "PostalCode": "77511",
+            "PublicID": "",
+            "State": "TX"
+          },
+          "OrigAccidentForgivenessFlag": null,
+          "PhoneNumber": "",
+          "PhoneNumbers": [
+            {
+              "PhoneNumber": "8045652342",
+              "PhoneType": "home",
+              "Primary": true
+            }
+          ],
+          "PolicyNumber": "244-000-010-35",
+          "PrimaryPhone": "8045652342",
+          "PublicId": "pc:40311",
+          "ResidencyStatus": "home",
+          "ResidentMonth": 1,
+          "ResidentYear": 2011,
+          "Status": "In Force",
+          "TotalPremium": "2321",
+          "Vehicles": [
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "165",
+                  "SelectedValue": "500",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "500",
+                  "OriginalVal": "500",
+                  "Premium": "357",
+                  "SelectedValue": "500",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "It go bada boom",
+              "DamageOnVehicle": true,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2011 KIA SORENTO BASE in Texas",
+              "DonotKnowLienHolder": true,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "913cd711-65dc-c8ce-fd71-1c4e0b46e795",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": true,
+              "LicenseState": "VA",
+              "Make": "KIA",
+              "MakeID": 1011,
+              "Model": "SORENTO BASE",
+              "ModelID": 14220,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "4 CYL SPORT UTILITY VEHICLE",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "5XYKT3A17BG157871",
+              "Year": 2011,
+              "YearStyleID": 25542
+            },
+            {
+              "AdditionalInterests": [],
+              "AntiTheft": false,
+              "BrandedTitle": false,
+              "Coverages": [
+                {
+                  "Desc": "Other Than Collision (Comprehensive)",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$0 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_0"
+                      },
+                      "SortOrder": 1,
+                      "Value": "00"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 2,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 3,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 4,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 5,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 6,
+                      "Value": "1000"
+                    }
+                  ],
+                  "Name": "PAComprehensiveCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 0,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Collision",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$50 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_50"
+                      },
+                      "SortOrder": 1,
+                      "Value": "50"
+                    },
+                    {
+                      "Desc": "$100 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_100"
+                      },
+                      "SortOrder": 2,
+                      "Value": "100"
+                    },
+                    {
+                      "Desc": "$250 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_250"
+                      },
+                      "SortOrder": 3,
+                      "Value": "250"
+                    },
+                    {
+                      "Desc": "$500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_500"
+                      },
+                      "SortOrder": 4,
+                      "Value": "500"
+                    },
+                    {
+                      "Desc": "$1,000 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_1000"
+                      },
+                      "SortOrder": 5,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,500 Deductible",
+                      "Meta": {
+                        "CoverageLimitKey": "Deductible_2500"
+                      },
+                      "SortOrder": 6,
+                      "Value": "2500"
+                    }
+                  ],
+                  "Name": "PACollisionCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 10,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Roadside Assistance",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "TOW_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "PATowingLaborCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 20,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Rental Reimbursement",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "$30 per day / $900 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_30_900"
+                      },
+                      "SortOrder": 1,
+                      "Value": "30/900"
+                    },
+                    {
+                      "Desc": "$40 per day / $1,200 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_40_1200"
+                      },
+                      "SortOrder": 2,
+                      "Value": "40/1200"
+                    },
+                    {
+                      "Desc": "$50 per day / $1,500 max",
+                      "Meta": {
+                        "CoverageLimitKey": "Rental_50_1500"
+                      },
+                      "SortOrder": 3,
+                      "Value": "50/1500"
+                    }
+                  ],
+                  "Name": "PARentalCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 30,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Loan Lease Payoff",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Full",
+                      "Meta": {
+                        "CoverageLimitKey": "GAP_FULL",
+                        "RentalLevels": "full"
+                      },
+                      "SortOrder": 1,
+                      "Value": "full"
+                    }
+                  ],
+                  "Name": "EISPALoanGapCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 40,
+                  "StateProv": "tx"
+                },
+                {
+                  "Desc": "Custom Equipment Coverage",
+                  "Items": [
+                    {
+                      "Desc": "No Coverage",
+                      "SortOrder": 0,
+                      "Value": "none"
+                    },
+                    {
+                      "Desc": "Up to $1,000",
+                      "SortOrder": 1,
+                      "Value": "1000"
+                    },
+                    {
+                      "Desc": "$2,000",
+                      "SortOrder": 2,
+                      "Value": "2000"
+                    },
+                    {
+                      "Desc": "$3,000",
+                      "SortOrder": 3,
+                      "Value": "3000"
+                    },
+                    {
+                      "Desc": "$4,000",
+                      "SortOrder": 4,
+                      "Value": "4000"
+                    },
+                    {
+                      "Desc": "$5,000",
+                      "SortOrder": 5,
+                      "Value": "5000"
+                    },
+                    {
+                      "Desc": "$7,500",
+                      "SortOrder": 6,
+                      "Value": "7500"
+                    },
+                    {
+                      "Desc": "$10,000",
+                      "SortOrder": 7,
+                      "Value": "10000"
+                    },
+                    {
+                      "Desc": "$15,000",
+                      "SortOrder": 8,
+                      "Value": "15000"
+                    },
+                    {
+                      "Desc": "$20,000",
+                      "SortOrder": 9,
+                      "Value": "20000"
+                    }
+                  ],
+                  "Name": "EISPACustEquipCov",
+                  "OrigVal": "none",
+                  "OriginalVal": "none",
+                  "Premium": null,
+                  "SelectedValue": "none",
+                  "SortOrder": 50,
+                  "StateProv": "tx"
+                }
+              ],
+              "CrashAvoidance": false,
+              "CurrentOwner": false,
+              "DamageDescription": "",
+              "DamageOnVehicle": false,
+              "DiminishingDeductible": false,
+              "DiminishingDeductibleAmount": null,
+              "DiminishingDeductibleFee": null,
+              "DisplayName": "2012 ACURA MDX in Texas",
+              "DonotKnowLienHolder": false,
+              "EstimatedAnnualMileage": "6000_to_7999",
+              "ExternalID": "17d3a91d-67ea-e2cf-6437-f5441afefd7c",
+              "GarageAddress": {
+                "AddressLine1": "1195 E Adoue St",
+                "AddressLine2": "",
+                "AddressType": "",
+                "City": "Alvin",
+                "Country": "US",
+                "County": "Galveston",
+                "DisplayName": "",
+                "ExternalID": "11259392",
+                "PostalCode": "77511",
+                "PublicID": "",
+                "State": "TX"
+              },
+              "HandsFree": false,
+              "IgnoreVin": false,
+              "LeasedLoaned": false,
+              "LicenseState": "TX",
+              "Make": "ACURA",
+              "MakeID": 1154,
+              "Model": "MDX",
+              "ModelID": 22338,
+              "PrimarilyParked": "Indoor_parking_lot",
+              "PrimaryDriverExternalID": "8becd20f-6dc5-4b16-21e6-fa95e1308937",
+              "PrimaryUse": "commuting",
+              "PurchasedMonth": 1,
+              "PurchasedRegisteredOrInspectedToday": false,
+              "PurchasedYear": 2013,
+              "RatingService": "POLK",
+              "RideSharing": false,
+              "RideSharingHours": "",
+              "Style": "6 CYL SPORT UTILITY VEHICLE AWD",
+              "TitledToOther": false,
+              "ValueOfCustomEquipment": "",
+              "VehicleNumber": 0,
+              "Vin": "2HNYD2H25CH505177",
+              "Year": 2012,
+              "YearStyleID": 32794
+            }
+          ],
+          "WrittenDate": "2021-05-06T04:00:00Z"
+        }
+      },
+      "SymbolsDate": "2021-05-06T04:00:00Z",
+      "TermType": "HalfYear",
+      "WrittenDate": "2021-05-06T04:00:00Z"
+    },
+    "PolicyTimeline": [
+      {
+        "ChangeData": [
+          {
+            "EditEffectiveDate": "2021-05-07T04:01:00Z",
+            "JobNumber": "0007455076",
+            "JobReasonCode": "",
+            "JobReasonDescription": "Policy Start",
+            "JobType": "Submission"
+          }
+        ],
+        "Date": "2021-05-07T04:01:00Z",
+        "ItemType": "bind",
+        "Past": true
+      },
+      {
+        "Date": "2021-05-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "0",
+          "AmountPaid": "403.77",
+          "BilledDate": "2021-05-06T04:00:00Z",
+          "DueDate": "2021-05-07T04:00:00Z",
+          "InvoiceAmount": "403.77",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "7",
+              "ChargeCategory": "Installment Fee",
+              "ChargeType": "onetime",
+              "PaidAmount": "7"
+            },
+            {
+              "ChargeAmount": "8",
+              "ChargeCategory": "TX Theft Prevention Assessment",
+              "ChargeType": "onetime",
+              "PaidAmount": "8"
+            },
+            {
+              "ChargeAmount": "388.77",
+              "ChargeCategory": "Premium",
+              "ChargeType": "deposit",
+              "PaidAmount": "388.77"
+            }
+          ],
+          "InvoiceNumber": "1000012134",
+          "IsDueToday": false,
+          "Status": "Due"
+        },
+        "ItemType": "invoice",
+        "Past": true
+      },
+      {
+        "Date": "2021-06-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "0",
+          "AmountPaid": "393.45",
+          "BilledDate": "2021-05-28T04:00:00Z",
+          "DueDate": "2021-06-07T04:00:00Z",
+          "InvoiceAmount": "393.45",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.45",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "386.45"
+            },
+            {
+              "ChargeAmount": "7",
+              "ChargeCategory": "Installment Fee",
+              "ChargeType": "onetime",
+              "PaidAmount": "7"
+            }
+          ],
+          "InvoiceNumber": "1000012135",
+          "IsDueToday": false,
+          "Status": "Due"
+        },
+        "ItemType": "invoice",
+        "Past": true
+      },
+      {
+        "Date": "2021-07-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "0",
+          "AmountPaid": "393.45",
+          "BilledDate": "2021-06-27T04:00:00Z",
+          "DueDate": "2021-07-07T04:00:00Z",
+          "InvoiceAmount": "393.45",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.45",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "386.45"
+            },
+            {
+              "ChargeAmount": "7",
+              "ChargeCategory": "Installment Fee",
+              "ChargeType": "onetime",
+              "PaidAmount": "7"
+            }
+          ],
+          "InvoiceNumber": "1000012136",
+          "IsDueToday": false,
+          "Status": "Due"
+        },
+        "ItemType": "invoice",
+        "Past": true
+      },
+      {
+        "Date": "2021-08-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "393.45",
+          "AmountPaid": "0",
+          "BilledDate": "2021-07-28T04:00:00Z",
+          "DueDate": "2021-08-07T04:00:00Z",
+          "InvoiceAmount": "386.45",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.45",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "0"
+            }
+          ],
+          "InvoiceNumber": "1000012137",
+          "IsDueToday": false,
+          "Status": "Planned"
+        },
+        "ItemType": "invoice",
+        "Past": false
+      },
+      {
+        "Date": "2021-09-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "393.44",
+          "AmountPaid": "0",
+          "BilledDate": "2021-08-28T04:00:00Z",
+          "DueDate": "2021-09-07T04:00:00Z",
+          "InvoiceAmount": "386.44",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.44",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "0"
+            }
+          ],
+          "InvoiceNumber": "1000012138",
+          "IsDueToday": false,
+          "Status": "Planned"
+        },
+        "ItemType": "invoice",
+        "Past": false
+      },
+      {
+        "Date": "2021-10-07T04:00:00Z",
+        "InvoiceData": {
+          "AmountDue": "393.44",
+          "AmountPaid": "0",
+          "BilledDate": "2021-09-27T04:00:00Z",
+          "DueDate": "2021-10-07T04:00:00Z",
+          "InvoiceAmount": "386.44",
+          "InvoiceItems": [
+            {
+              "ChargeAmount": "386.44",
+              "ChargeCategory": "Premium",
+              "ChargeType": "installment",
+              "PaidAmount": "0"
+            }
+          ],
+          "InvoiceNumber": "1000012139",
+          "IsDueToday": false,
+          "Status": "Planned"
+        },
+        "ItemType": "invoice",
+        "Past": false
+      }
+    ],
+    "Success": false,
+    "currentCoverages": null
+  },
+  "Status": null,
+  "SystemTime": "2021-07-24T18:27:49Z"
+}
